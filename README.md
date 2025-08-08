@@ -1,4 +1,7 @@
 # ITY-Accessibility-Toolbar
+
+You have to add this cdn file to your project: https://cdn.jsdelivr.net/gh/Ishitaray0389/ITY-Accessibility-Toolbar/ity-accessibility-toolbar.1.1.js
+
 You can modify it as per your own choice by adding script like this: 
 <script>
     AccessibilityToolbar({
