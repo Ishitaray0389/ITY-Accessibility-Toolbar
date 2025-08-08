@@ -4,24 +4,24 @@
 Unpkg automatically serves npm packages.
 If your package name is ity-accessibility-toolbar, the latest version is:
 
-<script src="https://unpkg.com/ity-accessibility-toolbar"></script>
+<script src="https://unpkg.com/ity-accessibility-toolbar@1.0.1"></script>
 
 
 If you want a specific version:
 
-<script src="https://unpkg.com/ity-accessibility-toolbar@1.0.0"></script>
+<script src="https://unpkg.com/ity-accessibility-toolbar@1.0.1/ity-accessibility-toolbar.js"></script>
 
 ......................................
 
 2. jsDelivr
 Same idea, but a different CDN:
 
-<script src="https://cdn.jsdelivr.net/npm/ity-accessibility-toolbar"></script>
+<script src="https://cdn.jsdelivr.net/npm/ity-accessibility-toolbar@1.0.1"></script>
 
 
 Specific version:
 
-<script src="https://cdn.jsdelivr.net/npm/ity-accessibility-toolbar@1.0.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/ity-accessibility-toolbar@1.0.1/ity-accessibility-toolbar.js"></script>
 
 ......................................
 
