@@ -45,7 +45,7 @@ Example:
 
 If you want options (like background color, position, etc.), we’ll need to add a configuration object to your script so people can call:
 
-AccessibilityToolbar.init({
+ITYAccessibilityToolbar.init({
   listenLabel: "🔉 Speak Now",
   stopLabel: "🛑 Stop",
   increaseFontLabel: "Increase A",
